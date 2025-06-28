@@ -6,7 +6,7 @@ int main() {
     double preco_total;
 
     // Entrada de dados
-    printf("Digite a idade do visitante: ");
+    printf("Digite a idade do visitante: oi");
     scanf("%d", &idade);
 
     printf("Digite a quantidade de bilhetes: ");
